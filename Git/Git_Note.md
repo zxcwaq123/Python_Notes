@@ -1,3 +1,5 @@
+[课程来源](https://www.bilibili.com/video/BV1HM411377j?spm_id_from=333.788.videopod.episodes&vd_source=0c3dbdb224bb06b46da24405c404ed22)
+
 # Git工作区域和文件状态
 
 ## 1. 工作区域
@@ -33,8 +35,4 @@
     sdf
 
 ### 2 git 
-
-'''
-sdf
-'''
 
